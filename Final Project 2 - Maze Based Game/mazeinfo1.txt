@@ -1,0 +1,17 @@
+1) Final Project, maze based game. 
+
+2) A simple 2D Array has been implemented with simple movement mechanics to tranverse the maze.
+
+3) The 'X' are traps and will deal you damage, but they are protecting keys(K)!
+
+4) There are fake keys within the game though, you have limited health!
+
+5) There are also enemies that are protecting keys. These enemies may be more dangerous than you can handle. 
+
+6) There are health packs (H) that you can pick up before facing,these enemies. 
+
+7) These enemies may provide the right key to open the maze, or they might just be fakes again!
+
+8) Play the game with the WASD keys.
+
+9) Find the correct key to open the door and win the maze!
